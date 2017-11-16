@@ -11,6 +11,6 @@
     },
 
     "production": {
-        "MONGODB_URI": "mongodb://wyyx:wyyx@ds111496.mlab.com:11496/vidjot-prod"
+        "MONGODB_URI": "mongodb://wyyx:1234@ds111496.mlab.com:11496/vidjot-prod"
     }
 }
